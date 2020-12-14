@@ -1,2 +1,2 @@
-# SLAM
-mainly for visual-slam, resources and code
+# Noob-SLAM
+Trying to make a light and python-based Slam structure during my master period.
